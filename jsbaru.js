@@ -1,5 +1,5 @@
 var randomRelatedIndex, showRelatedPost;
-alert('undefined');
+console.log('testing alert');
 (function(n, m, k) {
     var d = {
         widgetTitle: "<h4>Artikel Terkait:</h4>",
